@@ -46,4 +46,5 @@ Many applications, such as text editors, databases, and image processing softwar
 System Administration:
 File handling is crucial for system administration tasks, such as managing user accounts, configuration files, and logs. 
 
-
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/727c863f-6bce-410d-9163-cfc1b655d960)
